@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24189" started-at="2024-05-28T15:29:51 IST" finished-at="2024-05-28T15:30:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24189" started-at="2024-05-28T15:29:51 IST" finished-at="2024-05-28T15:30:16 IST">
+      <class name="dpp.d1">
+        <test-method status="PASS" signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dpp.d1@ea1a8d5]" name="DataProvSampleTest" duration-ms="9859" started-at="2024-05-28T15:29:52 IST" data-provider="dhivya" finished-at="2024-05-28T15:30:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhivyakarthi123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+        <test-method status="PASS" signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dpp.d1@ea1a8d5]" name="DataProvSampleTest" duration-ms="7679" started-at="2024-05-28T15:30:01 IST" data-provider="dhivya" finished-at="2024-05-28T15:30:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DDD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+        <test-method status="PASS" signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dpp.d1@ea1a8d5]" name="DataProvSampleTest" duration-ms="6593" started-at="2024-05-28T15:30:09 IST" data-provider="dhivya" finished-at="2024-05-28T15:30:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DEEPA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+      </class> <!-- dpp.d1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
